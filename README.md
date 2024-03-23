@@ -21,5 +21,9 @@ Compiler les Ressources :npm run dev
 
 Construction pour la Production:npm run build
 Lancer le Serveur Laravel:php artisan serve
-
+lancement de l'application: 
+1:npm install 
+2:npm run dev
+3: php artisan optimize
+3 php artisan serve
 le projet contient un fichier de base de données
